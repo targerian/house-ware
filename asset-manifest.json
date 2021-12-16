@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/house-ware/static/css/main.6d542db8.chunk.css",
-    "main.js": "/house-ware/static/js/main.011b0d6b.chunk.js",
-    "main.js.map": "/house-ware/static/js/main.011b0d6b.chunk.js.map",
+    "main.css": "/house-ware/static/css/main.cad3cde2.chunk.css",
+    "main.js": "/house-ware/static/js/main.d2272b43.chunk.js",
+    "main.js.map": "/house-ware/static/js/main.d2272b43.chunk.js.map",
     "runtime-main.js": "/house-ware/static/js/runtime-main.8c48bdac.js",
     "runtime-main.js.map": "/house-ware/static/js/runtime-main.8c48bdac.js.map",
     "static/js/2.671b68aa.chunk.js": "/house-ware/static/js/2.671b68aa.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.5b1d7270.chunk.js": "/house-ware/static/js/3.5b1d7270.chunk.js",
     "static/js/3.5b1d7270.chunk.js.map": "/house-ware/static/js/3.5b1d7270.chunk.js.map",
     "index.html": "/house-ware/index.html",
-    "static/css/main.6d542db8.chunk.css.map": "/house-ware/static/css/main.6d542db8.chunk.css.map",
+    "static/css/main.cad3cde2.chunk.css.map": "/house-ware/static/css/main.cad3cde2.chunk.css.map",
     "static/js/2.671b68aa.chunk.js.LICENSE.txt": "/house-ware/static/js/2.671b68aa.chunk.js.LICENSE.txt",
     "static/media/logos.18ae971c.svg": "/house-ware/static/media/logos.18ae971c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c48bdac.js",
     "static/js/2.671b68aa.chunk.js",
-    "static/css/main.6d542db8.chunk.css",
-    "static/js/main.011b0d6b.chunk.js"
+    "static/css/main.cad3cde2.chunk.css",
+    "static/js/main.d2272b43.chunk.js"
   ]
 }
