@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/house-ware/static/css/main.0f670074.chunk.css",
-    "main.js": "/house-ware/static/js/main.4fb0a897.chunk.js",
-    "main.js.map": "/house-ware/static/js/main.4fb0a897.chunk.js.map",
+    "main.js": "/house-ware/static/js/main.c5c5bd6b.chunk.js",
+    "main.js.map": "/house-ware/static/js/main.c5c5bd6b.chunk.js.map",
     "runtime-main.js": "/house-ware/static/js/runtime-main.8c48bdac.js",
     "runtime-main.js.map": "/house-ware/static/js/runtime-main.8c48bdac.js.map",
     "static/js/2.c4911044.chunk.js": "/house-ware/static/js/2.c4911044.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.8c48bdac.js",
     "static/js/2.c4911044.chunk.js",
     "static/css/main.0f670074.chunk.css",
-    "static/js/main.4fb0a897.chunk.js"
+    "static/js/main.c5c5bd6b.chunk.js"
   ]
 }
